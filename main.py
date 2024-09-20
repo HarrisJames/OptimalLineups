@@ -4,7 +4,6 @@ import requests
 league_id = '1049076127563628544'
 league_url = "https://api.sleeper.app/v1/league/" + league_id
 
-
 def map_users():
     contents = requests.get(league_url + "/users").text
     id_to_username = {}
@@ -22,16 +21,24 @@ def ppt_to_double(ppt, ppt_d):
     combined = str(ppt) + '.' + str(ppt_d)
     return float(combined)
 
+
+def get_num_playoff_teams():
+    contents = requests.get(league_url).text
+    return json.loads(contents)['settings']['playoff_teams']
+
+
 def write_to_results_file(week, username_to_ppts):
     draft_order = sorted(username_to_ppts, key=username_to_ppts.get)
     f = open("results.txt", "w")
     f.write("Projected Draft Results Through Week " + str(week) + "\n(name, current potential points):\n\n")
     counter = 1
+    total = len(draft_order)
+    playoff_teams = get_num_playoff_teams()
     for user in draft_order:
         f.write(str(counter) + ". " + user + " " + str(username_to_ppts[user]) + "\n")
-        counter = counter + 1
-        if counter == 7:
+        if counter == total - playoff_teams:
             f.write("----------------------------\n")
+        counter = counter + 1
     f.close()
 
 
