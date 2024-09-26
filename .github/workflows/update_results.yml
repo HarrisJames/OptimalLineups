@@ -1,0 +1,30 @@
+name: update results
+
+on: 
+  schedule:
+    - cron: '30 7 * 2 *'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+      - name: Install dependencies and Run Program
+        run: |
+          python -m pip install --upgrade pip
+          pip install pipenv
+          pipenv install
+          pipenv install requests
+          pipenv run python3 main.py
+      - name: Commit report
+        run: |
+          git config --global user.name 'HarrisJames'
+          git config --global user.email 'jameswha@usc.edu'
+          git commit -am "Changes made by run" || exit 0
+          git push
