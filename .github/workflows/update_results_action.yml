@@ -2,7 +2,7 @@ name: update results
 
 on: 
   schedule:
-    - cron: '30 16 * * 2'
+    - cron: '00 17 * * 2'
 permissions:
   contents: write
 jobs:
