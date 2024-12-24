@@ -1,18 +1,32 @@
 Projected Draft Results Through Week 14
 (name, current potential points):
 
+----------------------------
+NON-PLAYOFF TEAMS
+----------------------------
 1. kolbyqb 1442.18
 2. ecaylor2 1494.82
 3. MaxSwag69 1602.84
-4. jccaylor9 1733.6
-5. spencer461 1734.74
-6. dylanrocha 1738.68
+4. spencer461 1734.74
+5. dylanrocha 1738.68
+6. dylancaylor2 1796.82
+
 ----------------------------
-7. dylancaylor2 1796.82
-8. LaneBailey 1937.4
-9. Krod005 1980.74
-10. ajlong6 1998.2
-11. tolson23 2115.16
-12. Brindin55 2138.5
+FIRST ROUND EXITS
+----------------------------
+7. jccaylor9 1733.6
+8. Krod005 1980.74
+9. Brindin55 2138.5
+10. JamesHarris 2295.3
+
+----------------------------
+3RD PLACE GAME
+----------------------------
+11. LaneBailey 1937.4
+12. ajlong6 1998.2
+
+----------------------------
+CHAMPIONSHIP GAME (UNDECIDED)
+----------------------------
+13. tolson23 2115.16
 13. NovoLocity 2284.4
-14. JamesHarris 2295.3
