@@ -22,11 +22,12 @@ FIRST ROUND EXITS
 ----------------------------
 3RD PLACE GAME
 ----------------------------
-11. LaneBailey 1937.4
-12. ajlong6 1998.2
+11. ajlong6 1998.2
+12. LaneBailey 1937.4
 
 ----------------------------
-CHAMPIONSHIP GAME (UNDECIDED)
+CHAMPIONSHIP GAME
 ----------------------------
-13. tolson23 2115.16
 13. NovoLocity 2284.4
+14. tolson23 2115.16
+
