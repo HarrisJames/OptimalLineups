@@ -38,7 +38,7 @@ def write_to_results_file(week, username_to_ppts):
         f.write(str(counter) + ". " + user + " " + str(username_to_ppts[user]) + "\n")
         if counter == total - playoff_teams:
             f.write("----------------------------\n")
-        counter = counter + 1
+        counter += 1
     f.close()
 
 
@@ -64,4 +64,3 @@ if __name__ == '__main__':
     username_to_ppts = get_ppts_by_user(rosters)
     write_to_results_file(week, username_to_ppts)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
