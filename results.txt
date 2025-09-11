@@ -1,18 +1,18 @@
 Projected Draft Results Through Week 1
 (name, current potential points):
 
-1. ecaylor2 97.78
-2. jccaylor9 101.22
-3. JamesHarris 107.96
-4. MaxSwag69 118.78
-5. spencer461 118.86
-6. kolbyqb 121.7
-----------------------------
-7. ajlong6 125.22
-8. dylancaylor2 128.34
-9. Krod005 131.58
-10. Brindin55 132.8
-11. dylanrocha 138.68
-12. LaneBailey 156.0
-13. BradynKlein 171.82
-14. NovoLocity 174.12
+ 1.     ecaylor2    97.78  (-> JamesHarris)
+ 2.    jccaylor9   101.22
+ 3.  JamesHarris   107.96  (-> jccaylor9)
+ 4.    MaxSwag69   118.78
+ 5.   spencer461   118.86
+ 6.      kolbyqb   121.70  (-> JamesHarris)
+-------------------------------------------
+ 7.      ajlong6   125.22  (-> ecaylor2)
+ 8. dylancaylor2   128.34  (-> MaxSwag69)
+ 9.      Krod005   131.58  (-> BradynKlein)
+10.    Brindin55   132.80
+11.   dylanrocha   138.68
+12.   LaneBailey   156.00
+13.  BradynKlein   171.82  (-> Krod005)
+14.   NovoLocity   174.12
