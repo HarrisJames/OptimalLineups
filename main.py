@@ -42,7 +42,7 @@ def write_to_results_file(week, username_to_ppts, new_owner_by_original_username
     playoff_teams = get_num_playoff_teams()
     for user in draft_order:
         start = [str(counter) + ".", user]
-        f.write("{: >3} {: >12}".format(*start) + "{: >9}".format(f"{username_to_ppts[user]:.2f}"))
+        f.write("{: >3} {: >16}".format(*start) + "{: >9}".format(f"{username_to_ppts[user]:.2f}"))
         if user in new_owner_by_original_username:
             f.write("  (-> " + new_owner_by_original_username[user] + ")")
         f.write("\n")
