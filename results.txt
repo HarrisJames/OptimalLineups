@@ -1,18 +1,18 @@
-Projected Draft Results Through Week 6
+Projected Draft Results Through Week 7
 (name, current potential points):
 
- 1.        jccaylor9   567.32
- 2.         ecaylor2   622.14  (-> JamesHarris)
- 3. KolbymofoElliott   627.30  (-> JamesHarris)
- 4.          ajlong6   737.68  (-> ecaylor2)
- 5.       spencer461   759.78
- 6.     dylancaylor2   766.16  (-> MaxSwag69)
+ 1.        jccaylor9   672.36
+ 2.         ecaylor2   715.14  (-> JamesHarris)
+ 3. KolbymofoElliott   736.92  (-> JamesHarris)
+ 4.     dylancaylor2   907.20  (-> MaxSwag69)
+ 5.          ajlong6   913.50  (-> ecaylor2)
+ 6.       spencer461   914.50
 -------------------------------------------
- 7.        Brindin55   831.68
- 8.        MaxSwag69   850.16
- 9.       NovoLocity   869.78
-10.      JamesHarris   897.84  (-> jccaylor9)
-11.       dylanrocha   927.30
-12.       LaneBailey   930.26
-13.      BradynKlein   945.60  (-> Krod005)
-14.          Krod005  1025.20  (-> BradynKlein)
+ 7.        Brindin55   965.84
+ 8.       NovoLocity   988.40
+ 9.        MaxSwag69   995.70
+10.      JamesHarris  1041.28  (-> jccaylor9)
+11.       LaneBailey  1069.72
+12.       dylanrocha  1104.30
+13.      BradynKlein  1118.32  (-> Krod005)
+14.          Krod005  1194.78  (-> BradynKlein)
