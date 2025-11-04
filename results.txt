@@ -1,18 +1,18 @@
-Projected Draft Results Through Week 8
+Projected Draft Results Through Week 9
 (name, current potential points):
 
- 1.        jccaylor9   772.48
- 2.         ecaylor2   834.00  (-> JamesHarris)
- 3. KolbymofoElliott   836.50  (-> JamesHarris)
- 4.          ajlong6  1007.60  (-> ecaylor2)
- 5.       spencer461  1023.99
- 6.     dylancaylor2  1073.70  (-> MaxSwag69)
+ 1.        jccaylor9   847.62
+ 2. KolbymofoElliott   940.16  (-> JamesHarris)
+ 3.         ecaylor2   951.44  (-> JamesHarris)
+ 4.          ajlong6  1149.10  (-> ecaylor2)
+ 5.       spencer461  1152.80
+ 6.     dylancaylor2  1226.84  (-> MaxSwag69)
 -------------------------------------------
- 7.        Brindin55  1106.54
- 8.        MaxSwag69  1120.86
- 9.       NovoLocity  1144.48
-10.       LaneBailey  1159.40
-11.      JamesHarris  1167.20  (-> jccaylor9)
-12.      BradynKlein  1263.22  (-> Krod005)
-13.       dylanrocha  1272.86
-14.          Krod005  1345.26  (-> BradynKlein)
+ 7.        MaxSwag69  1243.84
+ 8.       NovoLocity  1248.92
+ 9.        Brindin55  1267.12
+10.      JamesHarris  1300.90  (-> jccaylor9)
+11.       LaneBailey  1314.62
+12.      BradynKlein  1383.32  (-> Krod005)
+13.       dylanrocha  1430.16
+14.          Krod005  1549.46  (-> BradynKlein)
