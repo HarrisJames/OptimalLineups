@@ -1,18 +1,18 @@
-Projected Draft Results Through Week 13
+Projected Draft Results Through Week 14
 (name, current potential points):
 
- 1.        jccaylor9  1213.90
- 2. KolbymofoElliott  1260.52  (-> JamesHarris)
- 3.         ecaylor2  1509.68  (-> JamesHarris)
- 4.       spencer461  1636.38
- 5.        MaxSwag69  1702.72
- 6.     dylancaylor2  1747.36  (-> MaxSwag69)
+ 1.        jccaylor9  1301.30
+ 2. KolbymofoElliott  1338.26  (-> JamesHarris)
+ 3.         ecaylor2  1633.10  (-> JamesHarris)
+ 4.       spencer461  1743.56
+ 5.        MaxSwag69  1848.96
+ 6.     dylancaylor2  1876.58  (-> MaxSwag69)
 -------------------------------------------
- 7.          ajlong6  1749.52  (-> ecaylor2)
- 8.       NovoLocity  1772.10
- 9.       LaneBailey  1773.56
-10.      JamesHarris  1816.52  (-> jccaylor9)
-11.        Brindin55  1893.14
-12.      BradynKlein  1897.72  (-> Krod005)
-13.       dylanrocha  2092.92
-14.          Krod005  2140.90  (-> BradynKlein)
+ 7.          ajlong6  1893.72  (-> ecaylor2)
+ 8.       LaneBailey  1906.64
+ 9.       NovoLocity  1921.90
+10.      JamesHarris  1942.40  (-> jccaylor9)
+11.      BradynKlein  2012.84  (-> Krod005)
+12.        Brindin55  2054.86
+13.       dylanrocha  2248.26
+14.          Krod005  2266.10  (-> BradynKlein)
