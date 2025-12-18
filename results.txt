@@ -1,6 +1,6 @@
 2026 DRAFT ORDER
 -------------------------------------------
-NON-PLAYOFF TEAMS (FINALIZED)
+NON-PLAYOFF TEAMS
 -------------------------------------------
  1.        jccaylor9  1301.30
  2. KolbymofoElliott  1338.26  (-> JamesHarris)
@@ -10,21 +10,21 @@ NON-PLAYOFF TEAMS (FINALIZED)
  6.       LaneBailey  1906.64
 
 -------------------------------------------
-PROJECTED FIRST ROUND EXITS
+FIRST ROUND EXITS
 -------------------------------------------
- 7.     dylancaylor2  1876.58  (-> MaxSwag69)
- 8.          ajlong6  1893.72  (-> ecaylor2)
- 9.       NovoLocity  1921.90
-10.      JamesHarris  1942.40  (-> jccaylor9)
+ 7.          ajlong6  1893.72  (-> ecaylor2)
+ 8.       NovoLocity  1921.90
+ 9.      JamesHarris  1942.40  (-> jccaylor9)
+10.       dylanrocha  2248.26
 
 -------------------------------------------
 PROJECTED 3RD PLACE GAME
 -------------------------------------------
-11.      BradynKlein  2012.84  (-> Krod005)
-12.        Brindin55  2054.86
+11.     dylancaylor2  1876.58  (-> MaxSwag69)
+12.      BradynKlein  2012.84  (-> Krod005)
 
 -------------------------------------------
 PROJECTED CHAMPIONSHIP GAME
 -------------------------------------------
-13.       dylanrocha  2248.26
+13.        Brindin55  2054.86
 14.          Krod005  2266.10  (-> BradynKlein)
