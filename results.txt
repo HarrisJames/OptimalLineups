@@ -1,4 +1,4 @@
-2026 DRAFT ORDER
+2026 DRAFT ORDER (Finalized)
 -------------------------------------------
 NON-PLAYOFF TEAMS
 -------------------------------------------
@@ -12,19 +12,20 @@ NON-PLAYOFF TEAMS
 -------------------------------------------
 FIRST ROUND EXITS
 -------------------------------------------
- 7.          ajlong6  1893.72  (-> ecaylor2)
- 8.       NovoLocity  1921.90
- 9.      JamesHarris  1942.40  (-> jccaylor9)
+ 7.       NovoLocity  1921.90
+ 8.      JamesHarris  1942.40  (-> jccaylor9)
+ 9.        Brindin55  2054.86
 10.       dylanrocha  2248.26
 
--------------------------------------------
-PROJECTED 3RD PLACE GAME
--------------------------------------------
-11.     dylancaylor2  1876.58  (-> MaxSwag69)
-12.      BradynKlein  2012.84  (-> Krod005)
 
 -------------------------------------------
-PROJECTED CHAMPIONSHIP GAME
+3RD PLACE GAME
 -------------------------------------------
-13.        Brindin55  2054.86
-14.          Krod005  2266.10  (-> BradynKlein)
+11.      BradynKlein  2012.84  (-> Krod005)
+12.     dylancaylor2  1876.58  (-> MaxSwag69)
+
+-------------------------------------------
+CHAMPIONSHIP GAME
+-------------------------------------------
+13.          Krod005  2266.10  (-> BradynKlein)
+14.          ajlong6  1893.72  (-> ecaylor2)
