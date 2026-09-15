@@ -3,6 +3,7 @@ name: update results
 on: 
   schedule:
     - cron: '30 16 * * 2'
+  workflow_dispatch: # Allows manual triggering
 permissions:
   contents: write
 jobs:
