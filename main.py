@@ -1,8 +1,8 @@
 import json
 import requests
 
-league_id = '1204723563085434880'
-current_year = 2025
+league_id = '1357751023019499520'
+current_year = 2026
 league_url = "https://api.sleeper.app/v1/league/" + league_id
 
 def map_users():
