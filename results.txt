@@ -1,18 +1,18 @@
-Projected Draft Results Through Week 3
+Projected Draft Results Through Week 4
 (name, current potential points):
 
- 1.       RAoverload   293.40
- 2.       spencer461   319.48
- 3. KolbymofoElliott   336.34  (-> MaxSwag69)
- 4.     dylancaylor2   359.60  (-> RAoverload)
- 5.        BossHondo   361.54
- 6.         ecaylor2   373.62  (-> spencer461)
+ 1.       RAoverload   388.18
+ 2.       spencer461   422.40
+ 3.        BossHondo   467.30
+ 4. KolbymofoElliott   472.26  (-> MaxSwag69)
+ 5.         ecaylor2   472.88  (-> spencer461)
+ 6.     dylancaylor2   480.58  (-> RAoverload)
 -------------------------------------------
- 7.       dylanrocha   406.20
- 8.        MaxSwag69   434.36
- 9.       NovoLocity   437.20
-10.      BradynKlein   485.76
-11.      JamesHarris   490.90  (-> spencer461)
-12.          ajlong6   516.86  (-> dylancaylor2)
-13.        Brindin55   518.36
-14.          Krod005   589.52  (-> spencer461)
+ 7.        MaxSwag69   543.38
+ 8.       NovoLocity   568.00
+ 9.       dylanrocha   572.50
+10.      JamesHarris   640.72  (-> spencer461)
+11.        Brindin55   694.94
+12.          ajlong6   697.54  (-> dylancaylor2)
+13.      BradynKlein   713.14
+14.          Krod005   727.32  (-> spencer461)
