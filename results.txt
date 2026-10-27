@@ -1,18 +1,18 @@
-Projected Draft Results Through Week 6
+Projected Draft Results Through Week 7
 (name, current potential points):
 
- 1.       RAoverload   497.74
- 2.       spencer461   618.96
- 3. KolbymofoElliott   678.60  (-> MaxSwag69)
- 4.     dylancaylor2   695.84  (-> RAoverload)
- 5.         ecaylor2   723.72  (-> spencer461)
- 6.        BossHondo   725.82
+ 1.       RAoverload   552.16
+ 2.       spencer461   681.20
+ 3.     dylancaylor2   783.20  (-> RAoverload)
+ 4. KolbymofoElliott   793.72  (-> MaxSwag69)
+ 5.         ecaylor2   836.00  (-> spencer461)
+ 6.        BossHondo   897.90
 -------------------------------------------
- 7.       dylanrocha   800.16
- 8.       NovoLocity   817.36
- 9.        MaxSwag69   823.56
-10.      JamesHarris   926.38  (-> spencer461)
-11.          ajlong6  1031.78  (-> dylancaylor2)
-12.        Brindin55  1044.76
-13.      BradynKlein  1045.66
-14.          Krod005  1087.54  (-> spencer461)
+ 7.       NovoLocity   933.96
+ 8.       dylanrocha   954.40
+ 9.        MaxSwag69   956.18
+10.      JamesHarris  1066.80  (-> spencer461)
+11.        Brindin55  1171.22
+12.          ajlong6  1171.99  (-> dylancaylor2)
+13.      BradynKlein  1211.48
+14.          Krod005  1268.38  (-> spencer461)
