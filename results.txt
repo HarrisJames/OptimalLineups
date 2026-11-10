@@ -1,18 +1,18 @@
-Projected Draft Results Through Week 8
+Projected Draft Results Through Week 9
 (name, current potential points):
 
- 1.       RAoverload   652.62
- 2.       spencer461   808.90
- 3.     dylancaylor2   927.64  (-> RAoverload)
- 4. KolbymofoElliott   942.20  (-> MaxSwag69)
- 5.         ecaylor2   998.56  (-> spencer461)
- 6.        BossHondo  1022.58
+ 1.       RAoverload   759.92
+ 2.       spencer461   887.14
+ 3.     dylancaylor2  1007.84  (-> RAoverload)
+ 4. KolbymofoElliott  1035.42  (-> MaxSwag69)
+ 5.         ecaylor2  1110.56  (-> spencer461)
+ 6.        BossHondo  1146.94
 -------------------------------------------
- 7.       NovoLocity  1022.80
- 8.       dylanrocha  1096.40
- 9.        MaxSwag69  1123.62
-10.      JamesHarris  1273.90  (-> spencer461)
-11.          ajlong6  1280.82  (-> dylancaylor2)
-12.      BradynKlein  1309.76
-13.        Brindin55  1327.44
-14.          Krod005  1387.86  (-> spencer461)
+ 7.       NovoLocity  1152.64
+ 8.        MaxSwag69  1235.60
+ 9.       dylanrocha  1248.94
+10.          ajlong6  1438.34  (-> dylancaylor2)
+11.      JamesHarris  1451.84  (-> spencer461)
+12.        Brindin55  1474.42
+13.          Krod005  1499.90  (-> spencer461)
+14.      BradynKlein  1525.20
